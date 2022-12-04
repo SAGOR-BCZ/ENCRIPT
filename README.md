@@ -1,8 +1,8 @@
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMER AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 # TOOLS
-
- YOUR PYTHON FILE
+```
+ENCODE YOUR PYTHON FILE
 ```
 
 <h1 align="center">FARHAN TANZIM SAGOR</h1>
@@ -39,4 +39,5 @@ pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 insta
 ```
 ANY PROBLEM THEN SHARE THIS TOOLS OWNER 👇👇
  
- [![Facebook](https://img.shields.io/badge/Facebook-sagor.official.0-blue?style=flat-square&logo=facebook)](https://www.facebook.com/sagor.official.0?mibextid=ZbWKwL)</br>
+ [![Facebook](https://img.shields.io/badge/sagor.official.0?style=flat-square&logo=facebook)](https://www.facebook.com/sagor.official.0?mibextid=ZbWKwL<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMER AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+
