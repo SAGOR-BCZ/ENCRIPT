@@ -39,5 +39,6 @@ pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 insta
 ```
 ANY PROBLEM THEN SHARE THIS TOOLS OWNER 👇👇
  
- [![Facebook](https://img.shields.io/badge/sagor.official.0?style=flat-square&logo=facebook)](https://www.facebook.com/sagor.official.0?mibextid=ZbWKwL<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMER AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+ [![Facebook](https://img.shields.io/badge/sagor.official.0?style=flat-square&logo=facebook)](https://www.facebook.com/sagor.official.0')
+
 
