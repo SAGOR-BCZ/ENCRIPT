@@ -10,7 +10,9 @@ ENCODE YOUR PYTHON FILE
 
 <h2 align="center"> ENCRYPT ANY PYTHON SCRIPT </h2>
 
+</p>
 
+![20200808_160757](https://github.com/Sagor-BCZ/ENCRIPT/blob/main/Screenshot_20221204-203347_Termux.jpg)
 
 ## <b>Installation On Termux</b>
 
@@ -39,6 +41,6 @@ pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 insta
 ```
 ANY PROBLEM THEN SHARE THIS TOOLS OWNER 👇👇
  
- [![Facebook](https://img.shields.io/badge/sagor.official.0?style=flat-square&logo=facebook)](https://www.facebook.com/sagor.official.0')
+ [![Facebook](https://img.shields.io/badge/Sagor-BCZ?style=flat-square&logo=facebook)](https://www.facebook.com/sagor.official.0')
 
 
